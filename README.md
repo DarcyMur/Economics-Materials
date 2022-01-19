@@ -1,2 +1,2 @@
 # Materials
-## Darcy Murphy's Materials on Economics 3 and Legal Studies 3
+## Darcy Murphy's Materials for Economics 3 and Legal Studies 3
