@@ -1,5 +1,8 @@
 # Economics 3
-## [Anki](https://github.com/DarcyMur/Materials/blob/main/Economics%Files/Economics.akpg)
+## Flashcards
+#### [Anki (Reccomended)](https://github.com/DarcyMur/Materials/blob/main/Economics%20Files/Economics.akpg)
+#### [Text File (For use on flashcard apps like Quizlet and Brainscape)](https://github.com/DarcyMur/Materials/blob/main/Economics%20Files/Economics.csv)
+*Note - on a number of the cards, specially in Unit 1, the cards are designed for you to draw on them as to get a practise with drawing things like Demand/Supply curves exc, I would recommend downloading [this application for windows](https://github.com/geovens/gInk) which will enable you to easily draw on the cards* 
 ## Units
 #### [Unit 1](https://github.com/DarcyMur/Materials/blob/main/Materials/Unit_1.md)
 #### [Unit 2](https://github.com/DarcyMur/Materials/blob/main/Materials/Unit_2.md)
